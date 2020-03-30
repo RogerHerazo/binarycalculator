@@ -102,7 +102,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           alignment: Alignment.centerRight,
                           child: Text('$_binaryvalue',
                               style: TextStyle(
-                                  color: Colors.red,power
+                                  color: Colors.red,
                                   fontWeight: FontWeight.bold,
                                   fontSize: 30)),
                         ),
